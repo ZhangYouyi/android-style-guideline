@@ -1,3 +1,13 @@
+# Android规范
+
+Android应用开发规范：
+
+* [Project and code style guidelines](project_and_code_guidelines.md)
+* [Architecture Guidelines](architecture_guidelines/android_architecture.md)
+
+# 协议
+
+```
 The MIT License (MIT)
 
 Copyright (c) 2016 ZhangYouyi
@@ -19,3 +29,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+```
