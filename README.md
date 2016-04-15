@@ -2,8 +2,8 @@
 
 Android应用开发规范：
 
-* [Project and code style guidelines](project_and_code_guidelines.md)
-* [Architecture Guidelines](architecture_guidelines/android_architecture.md)
+* [ADT](adt/README.md)
+* [Android Studio](android-studio/README.md)
 
 # 协议
 
